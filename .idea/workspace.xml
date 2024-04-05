@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="HW 1-122 is done except HW 93, 99,101, 115, 117,121" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cYGDFXr0ew2V67QcFWIsfBiFdP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.E100StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E101StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E102StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E103StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E104StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E105StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E106StringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E107StringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E108JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E109JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E110JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E111JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E112JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E113JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E114JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E115JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E116JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E117JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E118JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E119JavaMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E120Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E121Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E122Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E123Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E1BooleanPrinter.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.E29ScannerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E35LogicalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E45SwitchStatment.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.E51DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E52DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E53DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E54ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E55ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E56ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E57ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E58ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E59ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E60ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E61ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E62ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E63ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E64ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E65ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E66Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E67Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E68Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E69Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E70Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E71Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E72Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E73Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E74Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E75Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E75New.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E76Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E77Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E78Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E79Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E80Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E81Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E82NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E83NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E84NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E85NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E86ClassAndObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E87ClassAndObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E88ClassAndObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E89StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E90StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E91StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E92StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E93StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E94StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E95StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E96StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E97StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E98StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E99StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E9AirthmeticOperations.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E100StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E10AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E111JavaMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E112JavaMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E113JavaMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E114JavaMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E116JavaMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E118JavaMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E119JavaMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E11AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E120VariablesTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E122VariablesTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E12AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E13AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E14AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E15AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E17AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E1BooleanPrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E29ScannerClassTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E29ScannerClassTest.testProductZero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E2AgePrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E35LogicalOperatorsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E51DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E52DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E53DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E54ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E55ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E56ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E57ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E58ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E59ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E5CreatingVariablesAndPrintingTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E60ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E61ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E61ForLoopTest.testMultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E62ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E63ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E64ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E64ForLoopTest.testNumberSeriesPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E65ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E66ArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E67ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E68ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E68ArraysTest.testPrintSyntax.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E69ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E6StringConcatenationTester.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E70ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E71ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E72ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E72ArraysTest.testWeekDaysInput.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E73ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E74ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E75ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E76ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E77ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E78ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E79ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E7StringConcatenationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E80ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E81ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E82NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E84NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E85NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E86ClassAndObjectTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E87ClassAndObjectTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E88ClassAndObjectTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E89StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E8StringConcatenationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E90StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E91StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E92StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E93StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E94StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E96StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E97StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E98StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E99StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E9AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e101stringmanipulationstest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e102stringmanipulationstest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e103stringmanipulationstest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e104stringmanipulationstest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e105stringmanipulationstest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e106stringbuildertest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e107stringbuildertest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e108javamethodstest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e109javamethodstest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.e110javamethodstest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Syntax/IdeaProjects/SDETB19JavaHomeWorks/src/test/java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\test\java" />
+      <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.e89" />
+      <recent name="org.example.e88" />
+      <recent name="org.example.e75" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.E123Variables">
+    <configuration name="E121Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e121.E121Variables" />
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.e121.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E122Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e122.E122Variables" />
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.e122.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E123Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e123.E123Variables" />
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.e123.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E120VariablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e120variablestest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e120variablestest" />
+      <option name="MAIN_CLASS_NAME" value="e120variablestest.E120VariablesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E122VariablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e122variablestest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e122variablestest" />
+      <option name="MAIN_CLASS_NAME" value="e122variablestest.E122VariablesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E73ArraysTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e73arraystest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e73arraystest" />
+      <option name="MAIN_CLASS_NAME" value="e73arraystest.E73ArraysTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MaggyJavaHWPersonal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MaggyJavaHWPersonal" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E123Variables" />
+        <item itemvalue="JUnit.E122VariablesTest" />
+        <item itemvalue="Application.E122Variables" />
+        <item itemvalue="Application.E121Variables" />
+        <item itemvalue="JUnit.E120VariablesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="" />
+      <created>1708280977036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708280977036</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first 50 Exercises">
+      <option name="closed" value="true" />
+      <created>1709496959993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709496959993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HW 1-50 is completed.">
+      <option name="closed" value="true" />
+      <created>1710192183625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710192183625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW 1-52 is completed.">
+      <option name="closed" value="true" />
+      <created>1710267878183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710267878183</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW 1-56 is completed except HW53.">
+      <option name="closed" value="true" />
+      <created>1710269133036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710269133036</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HW 1-58 is completed except HW53.">
+      <option name="closed" value="true" />
+      <created>1710270421688</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710270421688</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HW 1-69 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710273169989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710273169989</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HW 1-62 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710276297485</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710276297485</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HW 1-63 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710276896639</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710276896639</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HW 1-63 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710440824312</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710440824312</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HW 1-63 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710443493562</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710443493562</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HW 1-63 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710443856307</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710443856307</updated>
+    </task>
+    <task id="LOCAL-00012" summary="HW 1-64 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710444330319</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710444330319</updated>
+    </task>
+    <task id="LOCAL-00013" summary="HW 1-65 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710444821785</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710444821785</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HW 1-66 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710445161164</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710445161164</updated>
+    </task>
+    <task id="LOCAL-00015" summary="HW 1-67 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710446446354</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710446446354</updated>
+    </task>
+    <task id="LOCAL-00016" summary="HW 1-68 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710446940093</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710446940093</updated>
+    </task>
+    <task id="LOCAL-00017" summary="HW 1-71 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710449560637</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710449560637</updated>
+    </task>
+    <task id="LOCAL-00018" summary="HW 1-71 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710475409051</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710475409051</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HW 1-71 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710475517484</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710475517484</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HW 1-71 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710478240745</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710478240745</updated>
+    </task>
+    <task id="LOCAL-00021" summary="HW 1-72 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710699901663</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1710699901663</updated>
+    </task>
+    <task id="LOCAL-00022" summary="HW 1-72 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710700034006</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710700034006</updated>
+    </task>
+    <task id="LOCAL-00023" summary="HW 1-74 is done except HW53">
+      <option name="closed" value="true" />
+      <created>1710701071182</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1710701071182</updated>
+    </task>
+    <task id="LOCAL-00024" summary="HW 1-76 is done except HW53 and 75">
+      <option name="closed" value="true" />
+      <created>1710704595712</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710704595712</updated>
+    </task>
+    <task id="LOCAL-00025" summary="HW 1-81 is done except HW53 and 80">
+      <option name="closed" value="true" />
+      <created>1710749131978</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1710749131978</updated>
+    </task>
+    <task id="LOCAL-00026" summary="HW 1-81 is done except HW53,75 and 80">
+      <option name="closed" value="true" />
+      <created>1710784918034</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1710784918034</updated>
+    </task>
+    <task id="LOCAL-00027" summary="HW 1-83 is done except HW53,75 and 80">
+      <option name="closed" value="true" />
+      <created>1710794088061</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1710794088061</updated>
+    </task>
+    <task id="LOCAL-00028" summary="HW 1-83 is done except HW53,75, 79 and 80">
+      <option name="closed" value="true" />
+      <created>1710794156741</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710794156741</updated>
+    </task>
+    <task id="LOCAL-00029" summary="HW 1-85 is done except HW53,75, 79 and 80">
+      <option name="closed" value="true" />
+      <created>1711060017812</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060017812</updated>
+    </task>
+    <task id="LOCAL-00030" summary="HW 1-85 is done except HW53,75 and 79">
+      <option name="closed" value="true" />
+      <created>1711060863831</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060863831</updated>
+    </task>
+    <task id="LOCAL-00031" summary="HW 1-85 is done except HW53,75 and 79">
+      <option name="closed" value="true" />
+      <created>1711180966871</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1711180966871</updated>
+    </task>
+    <task id="LOCAL-00032" summary="HW 1-85 is done except HW53 and 75">
+      <option name="closed" value="true" />
+      <created>1711181305157</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1711181305157</updated>
+    </task>
+    <task id="LOCAL-00033" summary="HW 1-85 is done except HW53 and 75">
+      <option name="closed" value="true" />
+      <created>1711181793106</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1711181793106</updated>
+    </task>
+    <task id="LOCAL-00034" summary="HW 1-85 is done except HW53 and 75">
+      <option name="closed" value="true" />
+      <created>1711182271825</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1711182271825</updated>
+    </task>
+    <task id="LOCAL-00035" summary="HW 1-85 is done except HW 75--&gt; it doesn't have a print button.">
+      <option name="closed" value="true" />
+      <created>1711182466695</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1711182466695</updated>
+    </task>
+    <task id="LOCAL-00036" summary="HW 1-85 is done except HW 75--&gt; it doesn't have a print button.">
+      <option name="closed" value="true" />
+      <created>1711221699984</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1711221699984</updated>
+    </task>
+    <task id="LOCAL-00037" summary="HW 1-91 is done except HW 88--&gt; it doesn't have a print button.">
+      <option name="closed" value="true" />
+      <created>1711391939187</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1711391939187</updated>
+    </task>
+    <task id="LOCAL-00038" summary="HW 1-92 is done except HW 88--&gt; it doesn't have a print button.">
+      <option name="closed" value="true" />
+      <created>1711395091665</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1711395091665</updated>
+    </task>
+    <task id="LOCAL-00039" summary="HW 1-106 is done except HW 88, 99,101--&gt; HW88 doesn't have a print button.">
+      <option name="closed" value="true" />
+      <created>1711833047366</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1711833047366</updated>
+    </task>
+    <task id="LOCAL-00040" summary="HW 1-106 is done except HW 88, 99,101">
+      <option name="closed" value="true" />
+      <created>1711833191984</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1711833191984</updated>
+    </task>
+    <task id="LOCAL-00041" summary="HW 1-106 is done except HW 93, 99,101">
+      <option name="closed" value="true" />
+      <created>1711833313131</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1711833313131</updated>
+    </task>
+    <task id="LOCAL-00042" summary="HW 1-110 is done except HW 93, 99,101">
+      <option name="closed" value="true" />
+      <created>1712028883136</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1712028883136</updated>
+    </task>
+    <task id="LOCAL-00043" summary="HW 1-112 is done except HW 93, 99,101">
+      <option name="closed" value="true" />
+      <created>1712029368380</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1712029368380</updated>
+    </task>
+    <task id="LOCAL-00044" summary="HW 1-116 is done except HW 93, 99,101, 115">
+      <option name="closed" value="true" />
+      <created>1712036102480</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1712036102480</updated>
+    </task>
+    <task id="LOCAL-00045" summary="HW 1-114 is done except HW 93, 99,101, 115, 117">
+      <option name="closed" value="true" />
+      <created>1712040641464</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1712040641464</updated>
+    </task>
+    <task id="LOCAL-00046" summary="HW 1-120 is done except HW 93, 99,101, 115, 117">
+      <option name="closed" value="true" />
+      <created>1712189081909</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1712189081909</updated>
+    </task>
+    <task id="LOCAL-00047" summary="HW 1-122 is done except HW 93, 99,101, 115, 117,121">
+      <option name="closed" value="true" />
+      <created>1712270133588</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1712270133588</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW 1-67 is done except HW53" />
+    <MESSAGE value="HW 1-68 is done except HW53" />
+    <MESSAGE value="HW 1-71 is done except HW53" />
+    <MESSAGE value="HW 1-72 is done except HW53" />
+    <MESSAGE value="HW 1-74 is done except HW53" />
+    <MESSAGE value="HW 1-76 is done except HW53 and 75" />
+    <MESSAGE value="HW 1-81 is done except HW53 and 80" />
+    <MESSAGE value="HW 1-81 is done except HW53,75 and 80" />
+    <MESSAGE value="HW 1-83 is done except HW53,75 and 80" />
+    <MESSAGE value="HW 1-83 is done except HW53,75, 79 and 80" />
+    <MESSAGE value="HW 1-85 is done except HW53,75, 79 and 80" />
+    <MESSAGE value="HW 1-85 is done except HW53,75 and 79" />
+    <MESSAGE value="HW 1-85 is done except HW53 and 75" />
+    <MESSAGE value="HW 1-85 is done except HW 75--&gt; it doesn't have a print button." />
+    <MESSAGE value="HW 1-91 is done except HW 88--&gt; it doesn't have a print button." />
+    <MESSAGE value="HW 1-92 is done except HW 88--&gt; it doesn't have a print button." />
+    <MESSAGE value="HW 1-106 is done except HW 88, 99,101--&gt; HW88 doesn't have a print button." />
+    <MESSAGE value="HW 1-106 is done except HW 88, 99,101" />
+    <MESSAGE value="HW 1-106 is done except HW 93, 99,101" />
+    <MESSAGE value="HW 1-110 is done except HW 93, 99,101" />
+    <MESSAGE value="HW 1-112 is done except HW 93, 99,101" />
+    <MESSAGE value="HW 1-116 is done except HW 93, 99,101, 115" />
+    <MESSAGE value="HW 1-114 is done except HW 93, 99,101, 115, 117" />
+    <MESSAGE value="HW 1-120 is done except HW 93, 99,101, 115, 117" />
+    <MESSAGE value="HW 1-122 is done except HW 93, 99,101, 115, 117,121" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 1-122 is done except HW 93, 99,101, 115, 117,121" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e106/E106StringBuilder.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
